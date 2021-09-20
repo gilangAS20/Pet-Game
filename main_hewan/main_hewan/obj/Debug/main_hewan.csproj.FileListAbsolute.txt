@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\main_hewan\main_hewan\bin\Debug\main_hewan.exe.config
+C:\Users\ACER\source\repos\main_hewan\main_hewan\bin\Debug\main_hewan.exe
+C:\Users\ACER\source\repos\main_hewan\main_hewan\bin\Debug\main_hewan.pdb
+C:\Users\ACER\source\repos\main_hewan\main_hewan\obj\Debug\main_hewan.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\main_hewan\main_hewan\obj\Debug\main_hewan.Form1.resources
+C:\Users\ACER\source\repos\main_hewan\main_hewan\obj\Debug\main_hewan.Properties.Resources.resources
+C:\Users\ACER\source\repos\main_hewan\main_hewan\obj\Debug\main_hewan.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\main_hewan\main_hewan\obj\Debug\main_hewan.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\main_hewan\main_hewan\obj\Debug\main_hewan.exe
+C:\Users\ACER\source\repos\main_hewan\main_hewan\obj\Debug\main_hewan.pdb
